@@ -24,3 +24,4 @@ Things to consider:
 - Each environment has its own AWS account
 - CI platform has access to AWS
 - Assets cache settings will be controlled by the application deployment
+- CSP/HTST headers done via lambda@edge
