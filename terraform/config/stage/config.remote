@@ -1,0 +1,4 @@
+bucket  = "<ACCOUNT ID>-tfstate"
+region  = "eu-west-1"
+profile = "<ACCOUNT ID>"
+dynamodb_table = "<ACCOUNT ID>-tfstate-lock"
